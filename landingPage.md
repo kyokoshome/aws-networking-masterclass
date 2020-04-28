@@ -86,3 +86,28 @@ You should see a response like the following
 ```
 
 
+## TCP:
+
+### Recommend Resource:
+* TCP State Machine 
+http://tcpipguide.com/free/t_TCPOperationalOverviewandtheTCPFiniteStateMachineF-2.htm
+* TCP 3 way-handshake
+http://www.tcpipguide.com/free/t_TCPConnectionEstablishmentProcessTheThreeWayHandsh-3.htm
+* TCP 4 way-Closure
+http://www.tcpipguide.com/free/t_TCPConnectionTermination-2.htm
+* TCP segment
+http://www.tcpipguide.com/free/t_TCPMessageSegmentFormat-3.htm
+* Wireshake packet parse:
+https://www.cnblogs.com/TankXiao/archive/2012/10/10/2711777.html
+* MSS/MTU
+https://www.incapsula.com/blog/mtu-mss-explained.html
+* Window Scale
+RFC:
+https://tools.ietf.org/html/rfc1323#page-8
+https://www.cnblogs.com/djiankuo/p/7019768.html
+* TCP keepalive/HTTP keepalive
+https://blog.csdn.net/oceanperfect/article/details/51064574
+*  High Performance Browser Networking - TCP:
+https://hpbn.co/building-blocks-of-tcp/
+
+
