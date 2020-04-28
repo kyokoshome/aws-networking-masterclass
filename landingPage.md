@@ -23,10 +23,13 @@ Are you sure you want to continue connecting (yes/no)?
 Click Yes 
 
 ### *Windows* 
+
 Convert the .pem file to .ppk file for use with putty 
 ![](https://github.com/kyokoshome/aws-networking-masterclass/blob/master/img/win1.png)
+
 Open Putty terminal and enter ec2-user@[IP at you name card] in the hostname 
 ![](https://github.com/kyokoshome/aws-networking-masterclass/blob/master/img/win2.png)
+
 Load the ppk file 
 ![](https://github.com/kyokoshome/aws-networking-masterclass/blob/master/img/win3.png)
 
